@@ -1,0 +1,42 @@
+[
+  {
+    "email": "kalburgikarthik0105@gmail.com",
+    "password": "123",
+    "createdAt": "2025-09-23T16:26:38.194Z",
+    "name": "Karthik",
+    "surname": "Weasker",
+    "age": 24,
+    "phone": "09900448193",
+    "gender": "male"
+  },
+  {
+    "email": "danceobsession513@gmail.com",
+    "password": "123",
+    "createdAt": "2025-09-23T16:27:36.883Z",
+    "name": "dancer",
+    "surname": "kk",
+    "age": 26,
+    "phone": "5454",
+    "gender": "male"
+  },
+  {
+    "email": "danceobsession513@gmail.comm",
+    "password": "123456",
+    "createdAt": "2025-09-23T16:36:17.127Z",
+    "name": "dancerAllu",
+    "surname": "Arjun",
+    "age": 26,
+    "phone": "545466",
+    "gender": "male"
+  },
+  {
+    "email": "123@gmail.com",
+    "password": "123",
+    "createdAt": "2025-09-23T16:42:36.835Z",
+    "name": "demo",
+    "surname": "demo1",
+    "age": 99,
+    "phone": "1234567890",
+    "gender": "male"
+  }
+]
